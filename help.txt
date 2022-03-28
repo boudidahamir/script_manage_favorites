@@ -1,0 +1,11 @@
+-1) -a : ajouter au favori
+-2) -c : aller au fichier/dossier du favori 
+-3) -r : supprimer de la liste favori
+-4) -l : afficher la liste des favoris
+-5) -h : Help
+-6) -g : Afficher le menu graphique
+  - -m : Afficher le menu textuel
+-7) -s : Sauvegarder une image
+-8) -n : renommer une image
+-9) -v : Afficher la version et les noms des acteurs
+-0) Quitter"
